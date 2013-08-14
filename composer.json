@@ -1,5 +1,5 @@
 {
-    "name": "presta/sitemap-bundle",
+    "name": "ipc/sitemap-bundle",
     "description": "A symfony 2 bundle that provides tools to build your application sitemap.",
     "keywords": ["symfony2", "bundle", "sitemap", "xml", "prestaconcept"],
     "type": "symfony-bundle",
